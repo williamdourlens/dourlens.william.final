@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dourlens.RG.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--mission --c \"OSS117\" --v \"Lille\" --a 2024"
+    }
+  }
+}
